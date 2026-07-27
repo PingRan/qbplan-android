@@ -2,12 +2,12 @@
 
 ## 官方下载来源
 
-轻变计划 v3.8.1 提供以下官方来源：
+轻变计划 v3.8.2 提供以下官方来源：
 
 1. 官网 APK：
-   <https://img.qbplan.cn/apk/qbplan-v3.8.1-release.apk>
+   <https://img.qbplan.cn/apk/qbplan-v3.8.2-release.apk>
 2. GitHub Release：
-   <https://github.com/PingRan/qbplan-android/releases/tag/v3.8.1>
+   <https://github.com/PingRan/qbplan-android/releases/tag/v3.8.2>
 
 不要从来源不明、版本信息不完整或无法核对来源的第三方页面下载安装包。
 
@@ -22,16 +22,16 @@
 
 | 项目 | 内容 |
 |---|---|
-| 文件名 | `qbplan-v3.8.1-release.apk` |
-| 文件大小 | 12,315,001 字节 |
+| 文件名 | `qbplan-v3.8.2-release.apk` |
+| 文件大小 | 12,315,345 字节 |
 | 包名 | `com.qbplan.app` |
-| 版本 | v3.8.1 |
-| versionCode | 39 |
+| 版本 | v3.8.2 |
+| versionCode | 40 |
 
 SHA-256：
 
 ```text
-8BD9736783BDADB8F7652E60330EF6BA11BF7D7A198479CF10829D0DD7335EEF
+F187F8AA9FFB6A131AD2B26BD6EC14C7D1E26F7F7A10BBC7AEA875ED0039E60B
 ```
 
 ## Windows 校验方法
@@ -39,7 +39,7 @@ SHA-256：
 在 PowerShell 中运行：
 
 ```powershell
-Get-FileHash -LiteralPath ".\qbplan-v3.8.1-release.apk" -Algorithm SHA256
+Get-FileHash -LiteralPath ".\qbplan-v3.8.2-release.apk" -Algorithm SHA256
 ```
 
 输出的 `Hash` 必须与本页公布的 SHA-256 完全一致。
@@ -49,7 +49,7 @@ Get-FileHash -LiteralPath ".\qbplan-v3.8.1-release.apk" -Algorithm SHA256
 在终端运行：
 
 ```bash
-shasum -a 256 qbplan-v3.8.1-release.apk
+shasum -a 256 qbplan-v3.8.2-release.apk
 ```
 
 ## Linux 校验方法
@@ -57,7 +57,7 @@ shasum -a 256 qbplan-v3.8.1-release.apk
 在终端运行：
 
 ```bash
-sha256sum qbplan-v3.8.1-release.apk
+sha256sum qbplan-v3.8.2-release.apk
 ```
 
 ## 校验不一致怎么办

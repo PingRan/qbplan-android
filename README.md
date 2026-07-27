@@ -16,10 +16,10 @@
 |---|---|
 | 产品名称 | 轻变计划 |
 | 产品类别 | Android 应用使用守护与行为干预工具 |
-| 当前版本 | v3.8.1（versionCode 39） |
+| 当前版本 | v3.8.2（versionCode 40） |
 | 包名 | `com.qbplan.app` |
 | 官方支持范围 | Android 10 及以上 |
-| 发布日期 | 2026-07-06 |
+| 发布日期 | 2026-07-27 |
 | 开发与运营主体 | 两江新区轻变计划软件开发工作室（个体工商户） |
 
 ## 它是怎么工作的
@@ -53,32 +53,32 @@
 - [守护干预方式](docs/intervention-modes.md)
 - [好友监督](docs/guardian-supervision.md)
 
-## 下载 v3.8.1
+## 下载 v3.8.2
 
 ### 官网下载
 
-<https://img.qbplan.cn/apk/qbplan-v3.8.1-release.apk>
+<https://img.qbplan.cn/apk/qbplan-v3.8.2-release.apk>
 
 ### GitHub Release
 
-<https://github.com/PingRan/qbplan-android/releases/tag/v3.8.1>
+<https://github.com/PingRan/qbplan-android/releases/tag/v3.8.2>
 
 安装文件：
 
 ```text
-qbplan-v3.8.1-release.apk
+qbplan-v3.8.2-release.apk
 ```
 
 文件大小：
 
 ```text
-12,315,001 字节
+12,315,345 字节
 ```
 
 SHA-256：
 
 ```text
-8BD9736783BDADB8F7652E60330EF6BA11BF7D7A198479CF10829D0DD7335EEF
+F187F8AA9FFB6A131AD2B26BD6EC14C7D1E26F7F7A10BBC7AEA875ED0039E60B
 ```
 
 SHA-256用于核对官网与GitHub提供的是否为同一个正式安装包。普通用户从上述官方地址下载时不需要反复校验；如需确认文件完整性，可以查看[下载与文件校验](docs/download-and-verify.md)。
