@@ -53,6 +53,32 @@
 - [守护干预方式](docs/intervention-modes.md)
 - [好友监督](docs/guardian-supervision.md)
 
+
+## 产品截图
+
+以下截图展示轻变计划的主要产品功能。不同版本的界面细节可能略有差异。
+
+### 选择需要守护的应用
+
+[轻变计划选择需要守护的 Android 应用](docs/images/product-screenshots/select-guarded-apps.jpg)
+
+### 触发守护干预
+
+[打开目标应用时轻变计划显示守护干预界面](docs/images/product-screenshots/guard-intervention.jpg)
+
+### 选择使用目的和允许时长
+
+[轻变计划选择本次使用目的和允许时长](docs/images/product-screenshots/purpose-and-duration.jpg)
+
+### 设置可使用时段
+
+[轻变计划为守护应用设置可使用时段](docs/images/product-screenshots/available-hours.jpg)
+
+### 查看行为记录
+
+[轻变计划查看守护行为记录和使用报告](docs/images/product-screenshots/behavior-report.png)
+
+
 ## 下载 v3.8.2
 
 ### 官网下载
