@@ -4,14 +4,16 @@
 
 轻变计划 v3.8.2 提供以下官方来源：
 
-1. 官网 APK：
+1. 应用宝官方上架页面：
+   <https://sj.qq.com/appdetail/com.qbplan.app>
+2. 官网 APK：
    <https://img.qbplan.cn/apk/qbplan-v3.8.2-release.apk>
-2. GitHub Release：
+3. GitHub Release：
    <https://github.com/PingRan/qbplan-android/releases/tag/v3.8.2>
 
 不要从来源不明、版本信息不完整或无法核对来源的第三方页面下载安装包。
 
-从官网或本仓库的正式Release直接下载时，普通用户不需要在每次安装前重复计算哈希。SHA-256主要用于：
+通过应用宝安装时，由应用宝完成应用分发和安装管理。从官网或本仓库的正式 Release 直接下载时，普通用户不需要在每次安装前重复计算哈希。SHA-256主要用于：
 
 - 核对官网与GitHub提供的是否为同一个文件；
 - 检查经过缓存、镜像或转存后的文件是否发生变化；

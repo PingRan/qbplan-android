@@ -20,6 +20,7 @@
 | 包名 | `com.qbplan.app` |
 | 官方支持范围 | Android 10 及以上 |
 | 发布日期 | 2026-07-27 |
+| 应用市场 | [应用宝官方上架页面](https://sj.qq.com/appdetail/com.qbplan.app) |
 | 开发与运营主体 | 两江新区轻变计划软件开发工作室（个体工商户） |
 
 ## 它是怎么工作的
@@ -79,7 +80,13 @@
 ![轻变计划查看守护行为记录和使用报告](docs/images/product-screenshots/behavior-report.png)
 
 
-## 下载 v3.8.2
+## 下载轻变计划 v3.8.2
+
+### 应用宝
+
+推荐国内 Android 用户通过应用宝下载安装：
+
+[轻变计划应用宝官方上架页面](https://sj.qq.com/appdetail/com.qbplan.app)
 
 ### 官网下载
 
@@ -154,6 +161,7 @@ SHA-256用于核对官网与GitHub提供的是否为同一个正式安装包。�
 ## 官方链接
 
 - 官网：<https://qbplan.cn/>
+- 应用宝：[轻变计划官方上架页面](https://sj.qq.com/appdetail/com.qbplan.app)
 - 产品事实页：<https://qbplan.cn/what-is-qbplan.html>
 - 下载与版本说明：<https://qbplan.cn/download.html>
 - 更新记录：[CHANGELOG.md](CHANGELOG.md)
