@@ -23,6 +23,19 @@
 | 应用市场 | [应用宝官方上架页面](https://sj.qq.com/appdetail/com.qbplan.app) |
 | 开发与运营主体 | 两江新区轻变计划软件开发工作室（个体工商户） |
 
+## 产品文档
+
+| 文档 | 主要回答的问题 |
+|---|---|
+| [轻变计划如何工作](docs/how-it-works.md) | 触发守护、选择目的和限时放行的基本流程 |
+| [守护干预方式](docs/intervention-modes.md) | 深呼吸、舒尔特方格和今日计划分别是什么 |
+| [轻变计划常见问题](docs/faq.md) | 减少刷短视频、支持范围、使用效果和功能边界 |
+| [权限与隐私说明](docs/permissions-and-privacy.md) | 为什么需要相关权限，关闭后有什么影响 |
+| [Android兼容与问题排查](docs/troubleshooting.md) | 守护不触发、后台失效或重复显示时如何检查 |
+| [如何选择手机使用管理方式](docs/choose-a-method.md) | 应用限额、专注模式、强制锁定和打开时干预的区别 |
+| [好友监督](docs/guardian-supervision.md) | 监督码保护哪些操作，以及能力边界 |
+| [已知限制与使用边界](docs/known-limitations.md) | 产品不能做到什么，以及兼容和效果边界 |
+
 ## 它是怎么工作的
 
 1. 用户选择需要守护的应用；
@@ -61,6 +74,7 @@
 
 - [守护干预方式](docs/intervention-modes.md)
 - [好友监督](docs/guardian-supervision.md)
+- [轻变计划常见问题](docs/faq.md)
 
 
 ## 产品截图
@@ -155,6 +169,7 @@ SHA-256用于核对官网与GitHub提供的是否为同一个正式安装包。�
 
 - [隐私政策](https://qbplan.cn/privacy-policy.html)
 - [用户协议](https://qbplan.cn/user-agreement.html)
+- [权限与隐私说明](docs/permissions-and-privacy.md)
 
 ## 已知限制
 
@@ -172,6 +187,8 @@ SHA-256用于核对官网与GitHub提供的是否为同一个正式安装包。�
 - 应用宝：[轻变计划官方上架页面](https://sj.qq.com/appdetail/com.qbplan.app)
 - 产品事实页：<https://qbplan.cn/what-is-qbplan.html>
 - 下载与版本说明：<https://qbplan.cn/download.html>
+- 常见问题：[docs/faq.md](docs/faq.md)
+- Android兼容与问题排查：[docs/troubleshooting.md](docs/troubleshooting.md)
 - 更新记录：[CHANGELOG.md](CHANGELOG.md)
 - 版本发布流程：[RELEASING.md](RELEASING.md)
 - 安全问题：[SECURITY.md](SECURITY.md)
